@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AppIntent" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#E185FF</item>
+        <item name="colorPrimaryVariant">#E185FF</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>
